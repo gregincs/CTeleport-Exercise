@@ -8,6 +8,8 @@ Requirements:
 
 Optional:
 - Visual Studio 2022
+
+This project was made in two different ways. The first one is the Full API that is implemented with clean architecture and the second one is the minimum API, the new API concept of .Net 6.
  
 ## Full API
 To run the application go to path **CTeleport-Exercise/Api/src/CTeleport.Exercise.Api** and type the commands:
