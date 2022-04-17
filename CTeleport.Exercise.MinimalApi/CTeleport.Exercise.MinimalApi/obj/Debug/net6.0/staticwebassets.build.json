@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6JfEOksCObc2g25QN1umquP3c6g8bYXv+l8renpMJ+E=",
+  "Source": "CTeleport.Exercise.MinimalApi",
+  "BasePath": "_content/CTeleport.Exercise.MinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
