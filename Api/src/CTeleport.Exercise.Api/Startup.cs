@@ -34,12 +34,6 @@ public class Startup
         services.AddHttpContextAccessor();
         services.AddHealthChecks();
 
-        services.AddApiVersioning(options =>
-        {
-            options.AssumeDefaultVersionWhenUnspecified = true;
-            options.DefaultApiVersion = ApiVersion.Default;
-        });
-
         services.AddMvc()
             .AddJsonOptions(options =>
             {
